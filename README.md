@@ -8,12 +8,12 @@ A curated collection of interesting repository hyperlinks related to design.
 
 ## Tools and Repositories
 
-| Tool/Repository | Vetted | Description |
-| :--- | :--- | :--- |
-| https://github.com/nextlevelbuilder/ui-ux-pro-max-skill | - | |
-| https://github.com/Nutlope/hallmark | - | |
-| https://github.com/Leonxlnx/taste-skill | - | |
-| https://github.com/hugohe3/ppt-master | - | |
-| https://github.com/Nutlope/logocreator | - | |
-| https://github.com/KKKKhazix/human-writing | - | |
-| https://github.com/larashero3-dotcom/lieflat-charts | - | |
+| No. | Tool/Repository | Description | Vetted |
+| :--- | :--- | :--- | :--- |
+| 1 | https://github.com/nextlevelbuilder/ui-ux-pro-max-skill |  | - |
+| 2 | https://github.com/Nutlope/hallmark |  | - |
+| 3 | https://github.com/Leonxlnx/taste-skill |  | - |
+| 4 | https://github.com/hugohe3/ppt-master |  | - |
+| 5 | https://github.com/Nutlope/logocreator |  | - |
+| 6 | https://github.com/KKKKhazix/human-writing |  | - |
+| 7 | https://github.com/larashero3-dotcom/lieflat-charts |  | - |
