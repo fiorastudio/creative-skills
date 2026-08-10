@@ -1,8 +1,6 @@
 # DesignSkills
 
-Steven's websites: [learnaifluency.com](https://learnaifluency.com) and [stevenjieliwu.com](https://stevenjieliwu.com).
-
-My mission is to help everyone level up on AI fluency and get the most out of this new breed of tooling.
+My mission is to help everyone level up on AI fluency and get the most out of this new breed of tooling. Here is Steven Jieli Wu’s curated list of skills and resources.
 
 A curated collection of interesting repository hyperlinks related to design.
 
@@ -17,3 +15,8 @@ A curated collection of interesting repository hyperlinks related to design.
 | 5 | https://github.com/Nutlope/logocreator | A free + OSS logo generator powered by Flux on Together AI | - |
 | 6 | https://github.com/KKKKhazix/human-writing | 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。 | - |
 | 7 | https://github.com/larashero3-dotcom/lieflat-charts | Data visualization Skill for AI Agents, turning data into polished, interactive HTML charts. 面向 AI Agents 的数据可视化 Skill，将数据快速生成精致、可交互的 HTML 图表。 | - |
+
+## Resources
+
+- [learnaifluency.com](https://learnaifluency.com)
+- [stevenjieliwu.com](https://stevenjieliwu.com)
