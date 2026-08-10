@@ -15,3 +15,4 @@ A curated collection of interesting repository hyperlinks related to design.
 | https://github.com/Leonxlnx/taste-skill | - | |
 | https://github.com/hugohe3/ppt-master | - | |
 | https://github.com/Nutlope/logocreator | - | |
+| https://github.com/KKKKhazix/human-writing | - | |
